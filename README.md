@@ -35,3 +35,11 @@ The database supports an Oracle APEX application including:
 * **Dashboard:** Visualizing data via Bar Charts (Attractions per City) and Pie Charts (Visit Status).
 * **Calendar:** A visual representation of scheduled visits.
 * **Validations & Computations:** Business logic to ensure data integrity (e.g., date validation) and automatic price calculations.
+
+<img width="1915" height="898" alt="image" src="https://github.com/user-attachments/assets/cfa9bf2a-e4c4-4bfe-834d-fbaa517d83ce" />
+<img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/2004a373-4c42-4a8e-81e0-dcdba3bf2746" />
+<img width="1682" height="834" alt="image" src="https://github.com/user-attachments/assets/a6965387-5469-4fe5-b7cb-28683765c6f4" />
+<img width="1896" height="878" alt="image" src="https://github.com/user-attachments/assets/289ef1cf-3b3f-4f8c-b7ca-6e567c71ad2b" />
+<img width="1917" height="884" alt="image" src="https://github.com/user-attachments/assets/4e468608-25b5-4b60-b327-a3dd8b6c5593" />
+
+
