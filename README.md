@@ -1,7 +1,5 @@
 # globetrotter-apex-db
 
-# Database Project Description: City Break Planner
-
 ## Overview
 
 The chosen theme for this database project is a **City Break Management System**, built using Oracle APEX. It is designed to manage urban destinations, tourist attractions, travelers, and their visits. The database stores detailed information about cities, specific landmarks or activities, tourists, and the status of their trips (planned or completed), enabling efficient data organization and analysis of travel preferences and ratings.
